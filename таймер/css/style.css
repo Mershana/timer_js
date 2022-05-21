@@ -1,0 +1,23 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+input{
+	width: 200px;
+	padding: 10px;
+	font-family: 'Andale Mono', monospace;
+	text-align: center;
+	font-size: 16px;
+	background: url(https://srisovki.one/wp-content/uploads/2021/10/1kak_narisovat_zakat_3-730x582.jpeg);
+
+}
+
+#wrapper, #time {
+	text-align: center;
+}
+
+#time {
+	font-size: 30px;
+}
+
